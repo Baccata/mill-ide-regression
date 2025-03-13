@@ -2,6 +2,14 @@
 
 This is using the example from the [official documentation](https://mill-build.org/mill/large/multi-file-builds.html#_helper_files)
 
+Versions used :
+
+* mill 0.12.8-9-95f1fe
+* metals 1.5.1
+* vscode 1.98.1
+* IntelliJ 2024.3.4.1
+* IntelliJ-Scala plugin 2024.3.42
+
 ## Vscode + BSP
 
 * Jump to definition doesn't work when the definition is in another .mill file.
